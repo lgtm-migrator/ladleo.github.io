@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ladleo/ladleo.github.io/static/css/main.bf9fe460.chunk.css",
+    "main.js": "/ladleo/ladleo.github.io/static/js/main.02d35c06.chunk.js",
+    "main.js.map": "/ladleo/ladleo.github.io/static/js/main.02d35c06.chunk.js.map",
+    "runtime-main.js": "/ladleo/ladleo.github.io/static/js/runtime-main.33873796.js",
+    "runtime-main.js.map": "/ladleo/ladleo.github.io/static/js/runtime-main.33873796.js.map",
+    "static/js/2.cf6187b2.chunk.js": "/ladleo/ladleo.github.io/static/js/2.cf6187b2.chunk.js",
+    "static/js/2.cf6187b2.chunk.js.map": "/ladleo/ladleo.github.io/static/js/2.cf6187b2.chunk.js.map",
+    "index.html": "/ladleo/ladleo.github.io/index.html",
+    "precache-manifest.2031038d3f1af1ec5d542c776c74a38f.js": "/ladleo/ladleo.github.io/precache-manifest.2031038d3f1af1ec5d542c776c74a38f.js",
+    "service-worker.js": "/ladleo/ladleo.github.io/service-worker.js",
+    "static/css/main.bf9fe460.chunk.css.map": "/ladleo/ladleo.github.io/static/css/main.bf9fe460.chunk.css.map",
+    "static/media/logo.svg": "/ladleo/ladleo.github.io/static/media/logo.25bf045c.svg",
+    "static/media/me.png": "/ladleo/ladleo.github.io/static/media/me.d0f9d65e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33873796.js",
+    "static/js/2.cf6187b2.chunk.js",
+    "static/css/main.bf9fe460.chunk.css",
+    "static/js/main.02d35c06.chunk.js"
+  ]
+}
